@@ -2,15 +2,14 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Merlin/.vs/
-/Merlin/Aspire/AspireApp.AppHost/bin/
-/Merlin/Aspire/AspireApp.AppHost/obj/
-/Merlin/Aspire/AspireApp.ServiceDefaults/bin/
-/Merlin/Aspire/AspireApp.ServiceDefaults/obj/Debug/
-/Merlin/Morganas/bin/
-/Merlin/Morganas/obj/
-/Merlin/Aspire/AspireApp.AppHost/obj
-/Merlin/Aspire/AspireApp.ServiceDefaults/obj
-/Aspire/AspireApp.AppHost/bin/Debug/net9.0
-/Morganas/bin/Debug/net9.0
-/Aspire/AspireApp.AppHost/obj
+.vs/
+Aspire/AspireApp.AppHost/bin/
+Aspire/AspireApp.AppHost/obj/
+Aspire/AspireApp.ServiceDefaults/bin/
+Aspire/AspireApp.ServiceDefaults/obj/
+Morganas/bin/
+Morganas/obj/
+Umbraco/bin/
+Umbraco/obj/
+
+
