@@ -1,0 +1,6 @@
+@Morganas_HostAddress = http://localhost:5147
+
+GET {{Morganas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
